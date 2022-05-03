@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+sportx/akrussit/com/sportx/BuildConfig.java
+ sportx.akrussit.com.sportx.BuildConfig
+sportx/akrussit/com/sportx/MainActivity.java
+ sportx.akrussit.com.sportx.MainActivity
